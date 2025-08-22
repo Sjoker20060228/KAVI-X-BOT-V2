@@ -4,7 +4,7 @@ const chalk = require('chalk')
 global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~6sBDmCTZ#m70zYmJFdVM-_14iiflAUvbx3-WR3IxrdqPcKjg2t6Q"
 global.mongodburi = process.env.MONGODB_URI || "mongodb+srv://ketkshqAqjXygEF5:ketkshqAqjXygEF5@freeuri.dmkyoml.mongodb.net/polo-0721977999?retryWrites=true&w=majority&appName=freeuri"
 global.botname = process.env.BOTNAME || "KAVI-X MD"
-global.ownernumber = process.env.OWNERNUMBER || "94728380062"
+global.ownernumber = process.env.OWNERNUMBER || "0753178060"
 global.ownername = process.env.OWNERNAME || "Cyber Kavi"
 global.packname = process.env.PACKNAME || "KAVI-X MD"
 global.author = process.env.AUTHOR || "Cyber Kavi"
