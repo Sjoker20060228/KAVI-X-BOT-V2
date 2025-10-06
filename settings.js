@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~3wZgkDLS#N1UgRJGNiys57bvHe8PYB29vp1kRVKasV73C97JHjKQ"
+global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~rhZk2R4B#zDjiBP2FJ_I3_xHTA4Aw9VT2htvypg9hpWeEMmz17lI"
 global.mongodburi = process.env.MONGODB_URI || "mongodb+srv://ketkshqAqjXygEF5:ketkshqAqjXygEF5@freeuri.dmkyoml.mongodb.net/polo-0721977999?retryWrites=true&w=majority&appName=freeuri"
 global.botname = process.env.BOTNAME || "POLO X MD "
 global.ownernumber = process.env.OWNERNUMBER || "0740907737"
