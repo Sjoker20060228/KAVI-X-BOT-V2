@@ -1,10 +1,10 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~754i1QqL#kWjvRtqsICFbm4dRkyvZEcVnQtBgGIj9ntFRcwgEf1I"
+global.sessionID = process.env.SESSIONID || "
 global.mongodburi = process.env.MONGODB_URI || "mongodb+srv://ketkshqAqjXygEF5:ketkshqAqjXygEF5@freeuri.dmkyoml.mongodb.net/polo-0721977999?retryWrites=true&w=majority&appName=freeuri"
 global.botname = process.env.BOTNAME || "POLO X MD "
-global.ownernumber = process.env.OWNERNUMBER || "0740907737"
+global.ownernumber = process.env.OWNERNUMBER || "0768233917"
 global.ownername = process.env.OWNERNAME || "DxG POLO"
 global.packname = process.env.PACKNAME || "POLO"
 global.author = process.env.AUTHOR || "polo"
